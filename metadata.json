@@ -1,0 +1,5 @@
+{
+  "name": "Mac Draw",
+  "description": "Draw on your screen using hand movements captured by your camera. Built by Yathishh.",
+  "requestFramePermissions": ["camera"]
+}
